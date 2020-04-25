@@ -2,6 +2,18 @@
 #include <stdlib.h>
 
 
+
+void generate_seq(int n);
+
+void generate_seq(int n);
+{
+
+
+    int i=0;
+
+    for()
+}
+
 void generate(int n);
 
 
